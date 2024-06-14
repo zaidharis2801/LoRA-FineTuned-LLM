@@ -1,6 +1,6 @@
 # Fine-tuned Language Model with LoRA
 
-This repository contains a fine-tuned language model (LLM) using the Layer-wise Relevance Allocations (LoRA) technique. The repository includes both the fine-tuning process and the usage of the resulting model.
+This repository contains a fine-tuned language model (LLM) using the Low-Rank Adaptation (LoRA) technique. The repository includes both the fine-tuning process and the usage of the resulting model.
 
 ## Setup
 
